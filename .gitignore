@@ -1,0 +1,6 @@
+.env
+.pytest_cache
+*.db
+*.lock
+__pycahce__
+devopstut
